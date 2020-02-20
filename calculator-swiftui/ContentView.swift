@@ -7,7 +7,8 @@
 //
 
 import SwiftUI
-
+//Made a comment here
+//What my new lines are that were added
 struct ContentView: View {
     
     @State private var fieldOne : String = "0"
